@@ -90,7 +90,9 @@ ipython_config.py
 #   having no cross-platform support, pipenv may install dependencies that don't work, or not
 #   install all needed dependencies.
 #Pipfile.lock
-
+yc-ilyayausei32
+yc-ilyayausei32.pub
+yc-ilyayausei32.txt
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
 __pypackages__/
 
